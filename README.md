@@ -11,7 +11,7 @@
 
 ### *Redefining Driver Safety Through Intelligent Wellness Monitoring*
 
-[Demo Video](#) • [Live Prototype](#) • [Documentation](#) • [Architecture](#)
+
 
 </div>
 
@@ -295,7 +295,7 @@ Android Studio >= 2023.1 (for Android)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/meridian.git
+git clone https://github.com/shkshreyas/Meridian.git
 cd meridian
 
 # Install dependencies
@@ -725,17 +725,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-meridian%40example.com-red?style=for-the-badge&logo=gmail)](mailto:meridian@example.com)
-[![Website](https://img.shields.io/badge/Website-meridian.app-blue?style=for-the-badge&logo=google-chrome)](https://meridian.app)
-[![Twitter](https://img.shields.io/badge/Twitter-%40MeridianApp-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/MeridianApp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meridian-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/meridian)
+[![Website](https://img.shields.io/badge/Website-meridian.app-blue?style=for-the-badge&logo=google-chrome)](https://drivepulse.netlify.app/)
 
 ### 💬 Get in Touch
 Have questions? Want to collaborate? Reach out to us!
 
-**Email:** support@meridian.app  
-**Website:** https://meridian.app  
-**Demo:** https://demo.meridian.app
+**Demo:** https://drivepulse.netlify.app/
 
 </div>
 
